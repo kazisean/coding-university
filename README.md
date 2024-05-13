@@ -3,8 +3,7 @@
 Note this is a study plan for **software engineering**, not frontend engineering or full-stack development. There are really
 super roadmaps and coursework for those career paths elsewhere (see https://roadmap.sh/ for more info).
 
-There is a lot to learn in a university Computer Science program, but only knowing about 75% is good enough for an interview, so that's what I cover here.
-For a complete CS self-taught program, the resources for my study plan have been included in Kamran Ahmed's Computer Science Roadmap: https://roadmap.sh/computer-science
+
 
 ---
 
