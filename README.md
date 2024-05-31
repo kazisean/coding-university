@@ -251,7 +251,7 @@ But don't forget to do coding problems from above while you learn!
 ## Algorithmic complexity / Big-O / Asymptotic analysis
 
 - Nothing to implement here, you're just watching videos and taking notes! Yay!
-- There are a lot of videos here. Just watch enough until you understand it. You can always come back and review.
+- There are a lot of videos shere. Just watch enough until you understand it. You can always come back and review.
 - Don't worry if you don't understand all the math behind it.
 - You just need to understand how to express the complexity of an algorithm in terms of Big-O.
 - [ ] [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
